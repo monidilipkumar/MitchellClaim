@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cla:MitchellClaims xmlns:cla="http://www.mitchell.com/examples/claim">
+<cla:MitchellClaim>
+  <cla:ClaimNumber>22c9</cla:ClaimNumber>
+  <cla:AssignedAdjusterID>67890</cla:AssignedAdjusterID>
+  <cla:Vehicles>
+    <cla:VehicleDetails>
+      <cla:Vin>1M8GDM9AXKP042788</cla:Vin>
+      <cla:ExteriorColor>Competition Orange</cla:ExteriorColor>
+      <cla:LicPlateExpDate>2015-04-15-07:00</cla:LicPlateExpDate>
+    </cla:VehicleDetails>
+  </cla:Vehicles>
+</cla:MitchellClaim>
+</cla:MitchellClaims>

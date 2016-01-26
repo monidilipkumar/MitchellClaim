@@ -1,0 +1,7 @@
+c:\users\surendba\documents\visual studio 2012\Projects\MitchellClaimConsole\MitchellClaimService\bin\MitchellClaimService.dll
+c:\users\surendba\documents\visual studio 2012\Projects\MitchellClaimConsole\MitchellClaimService\bin\MitchellClaimService.pdb
+c:\users\surendba\documents\visual studio 2012\Projects\MitchellClaimConsole\MitchellClaimService\bin\MitchellClaimConsole.exe
+c:\users\surendba\documents\visual studio 2012\Projects\MitchellClaimConsole\MitchellClaimService\bin\MitchellClaimConsole.pdb
+c:\users\surendba\documents\visual studio 2012\Projects\MitchellClaimConsole\MitchellClaimService\obj\Debug\MitchellClaimService.csprojResolveAssemblyReference.cache
+c:\users\surendba\documents\visual studio 2012\Projects\MitchellClaimConsole\MitchellClaimService\obj\Debug\MitchellClaimService.dll
+c:\users\surendba\documents\visual studio 2012\Projects\MitchellClaimConsole\MitchellClaimService\obj\Debug\MitchellClaimService.pdb
